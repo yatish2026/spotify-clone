@@ -12,6 +12,7 @@ const App = () => {
 
       </div>
       <Player/>
+      <audio preload='auto'></audio>
 
     </div>
   )
