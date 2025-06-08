@@ -6,6 +6,7 @@ import DisplayAlbum from "./DisplayAlbum"
 import { useEffect, useRef } from "react"
 import { albumsData } from "../assets/assets"
 
+
 const Display = () => {
 
   const displayRef = useRef();
